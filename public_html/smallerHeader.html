@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+	<title>Course Search</title>
+	<meta charset=utf-8>
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<script type='text/javascript' src='autocomplete.js'></script>
+	<script type='text/javascript' src='menu.js'></script>	
+</head>
+<body>
+	<div id='headerContainerSmall'>
+		<div id='headerTopRow'>
+			<img id='logo' src="EdNapUni_red.png" alt="Napier Logo">
+			<img id='menuIcon' src="menu.png" alt="menu icon" onclick="toggleMenu()">
+		</div>	
+		<div id="menu">
+			<div class="menuItem">
+				<a href="index.html">Courses</a>
+			</div>
+			<div class="menuItem">
+				<a href="http://www.napier.ac.uk/study-with-us">Study with us</a>
+			</div>
+			<div class="menuItem">
+				<a href="http://www.napier.ac.uk/global">Global</a>
+			</div>
+			<div class="menuItem">
+				<a href="http://www.napier.ac.uk/research-and-innovation">Research and Innovation</a>
+			</div>
+			<div class="menuItem">
+				<a href="http://www.napier.ac.uk/alumni">Alumni</a>
+			</div>
+			<div class="menuItem">
+				<a href="http://www.napier.ac.uk/about-us">About us</a>
+			</div>
+		</div>
+		<form method="GET" action="results.php">
+			<input id='searchInputHeaderSmall' name="search">
+			<input id='searchSubmitHeaderSmall' type="submit" value="Search">
+		</form>
+	</div>
+</body>
+</html>

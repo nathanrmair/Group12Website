@@ -1,0 +1,10 @@
+[09-Oct-2017 12:42:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:07 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2

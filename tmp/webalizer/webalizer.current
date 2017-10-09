@@ -1,0 +1,429 @@
+# Webalizer V2.23-05 Incremental Data - 10/09/2017 04:46:24
+2017 10 9 4 46 24
+462 454 39 63 14 16 15726480 35 19 0
+4 28 260 5 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 2908 2 2 2
+297 294 9821055 9 17 9
+93 90 3190463 24 4 4
+11 10 129710 2 10 2
+59 58 2582344 4 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 7 56022 2
+0 0 0 0
+5 3 4549 3
+32 31 970310 2
+319 317 11422748 11
+30 30 966763 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+25 23 1201638 1
+1 1 14394 1
+1 1 1963 1
+0 0 0 0
+1 1 3547 1
+0 0 0 0
+0 0 0 0
+29 29 964738 1
+11 10 116261 10
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 3547 1
+0
+0
+0
+454
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/bat/rd-mailform.php
+0 2 0 50 0 0
+/images/bg-image-1.jpg
+0 15 0 2315085 0 0
+/js/owl.carousel.min.js
+0 14 0 236960 0 0
+/js/jquery.ui.totop.js
+0 11 0 6413 0 0
+/css/material-icons.css
+0 14 0 150362 0 0
+/js/jquery.easing.1.3.js
+0 15 0 42615 0 0
+/js/jquery-migrate-1.2.1.min.js
+0 16 0 57352 0 0
+/js/jquery.cookie.js
+0 15 0 24144 0 0
+/js/jquery.rd-parallax.js
+0 15 0 45188 0 0
+/images/bg-image-2.jpg
+0 15 0 4827540 0 0
+/images/favicon.ico
+0 5 0 1110 0 0
+/images/page-2_img03.jpg
+0 1 0 53264 0 0
+/js/bootstrap.min.js
+0 16 0 205558 0 0
+/js/jquery.rd-navbar.min.js
+0 15 0 61284 0 0
+/js/jquery.js
+0 16 0 656856 0 0
+/fonts/fontawesome-webfont.eot
+0 1 0 70783 0 0
+/images/gmap_marker.png
+0 11 0 22275 0 0
+/images/page-3_img02.jpg
+0 1 0 94035 0 0
+/index-1.html
+0 2 0 14847 0 0
+/images/page-2_img01.jpg
+0 1 0 109763 0 0
+/js/jquery.touch-touch.js
+0 11 0 38394 0 0
+/images/page-1_img04.jpg
+0 11 0 394647 0 0
+/css/animate.css
+0 14 0 136633 0 0
+/fonts/fontawesome-webfont.woff2
+0 12 0 799500 0 0
+/images/page-1_img05.jpg
+0 11 0 440022 0 0
+/js/mailform/jquery.rd-mailform.min.js
+0 1 0 5785 0 0
+/index-3.html
+0 2 0 16990 0 0
+/css/google-map.css
+0 1 0 351 0 0
+/images/page-4_img05.jpg
+0 1 0 97869 0 0
+/images/page-2_img02.jpg
+0 1 0 78106 0 0
+/js/mailform/jquery.form.min.js
+0 1 0 5865 0 0
+/images/page-1_img06.jpg
+0 11 0 564036 0 0
+/images/page-2_img04.jpg
+0 1 0 35996 0 0
+/images/page-4_img01.jpg
+0 1 0 50040 0 0
+/images/page-4_img04.jpg
+0 1 0 127781 0 0
+/fonts/MaterialIcons-Regular.ttf
+0 1 1 107780 0 0
+/fonts/fontawesome-webfont.ttf
+0 1 1 142072 0 0
+/index-2.html
+0 2 0 15489 0 0
+/images/page-4_img02.jpg
+0 1 0 77868 0 0
+/images/page-4_img03.jpg
+0 1 0 122822 0 0
+/js/tm-scripts.js
+0 16 0 113196 0 0
+/css/rd-mailform.css
+0 1 0 3813 0 0
+/images/page-1_img01.jpg
+0 11 0 480304 0 0
+/js/jquery.rd-google-map.js
+0 12 0 20776 0 0
+/js/tmstickup.js
+0 11 0 11033 0 0
+/index-5.html
+0 1 1 15541 0 0
+/fonts/MaterialIcons-Regular.woff
+0 1 0 64011 0 0
+/images/page-1_img03.jpg
+0 11 0 360514 0 0
+/fonts/MaterialIcons-Regular.woff2
+0 12 0 442992 0 0
+/css/bootstrap.css
+0 15 0 782875 0 0
+/js/mailform/jquery.rd-input-label.js
+0 1 0 1016 0 0
+/images/page-2_img06.jpg
+0 1 0 20127 0 0
+/images/page-1_img02.jpg
+0 11 0 589226 0 0
+/
+0 25 0 128316 19 2
+/404.html
+0 1 2 7875 0 0
+/images/arrows.png
+0 1 0 1756 0 0
+/images/page-2_img07.jpg
+0 1 0 22559 0 0
+/images/page-2_img05.jpg
+0 1 0 44015 0 0
+/js/device.min.js
+0 16 0 18752 0 0
+/css/font-awesome.css
+0 14 0 121509 0 0
+/images/page-3_img01.jpg
+0 1 0 69887 0 0
+/images/page-4_img06.jpg
+0 1 0 137598 0 0
+/index-4.html
+0 2 0 13545 0 0
+# End Of Table - urls
+# -sites- (monthly)
+54.89.59.242
+0 1 1 1963 1 1507203279
+/
+199.30.24.50
+0 1 1 40002 0 0
+-
+199.30.24.85
+0 2 2 198003 0 0
+-
+199.30.228.152
+0 1 1 945 1 1507255270
+/
+199.30.24.192
+0 1 1 7200 0 0
+-
+45.35.63.219
+0 1 1 3547 1 1507337271
+/
+34.240.210.119
+0 30 30 966763 1 1507354048
+/
+45.35.109.213
+0 1 1 33234 0 0
+-
+50.63.185.114
+0 1 1 14394 1 1507264454
+/
+45.32.131.61
+0 1 1 14394 1 1507459994
+/
+207.46.13.80
+0 1 0 0 0 0
+-
+184.168.224.231
+0 2 2 4492 2 1507332946
+/
+199.30.25.49
+0 2 2 11385 0 0
+-
+80.248.225.168
+0 10 9 115316 1 1507484846
+/index-3.html
+199.30.25.73
+0 3 3 16515 0 0
+-
+199.30.24.219
+0 1 1 53566 0 0
+-
+45.35.63.232
+0 1 1 902 0 0
+-
+65.55.210.206
+0 4 4 165375 0 0
+-
+77.99.216.135
+0 4 2 3604 1 1507257062
+/
+40.77.167.98
+0 1 1 3547 1 1507519571
+/
+207.46.13.172
+0 1 1 3547 1 1507366924
+/
+199.30.25.131
+0 1 1 202125 0 0
+-
+146.176.90.59
+0 201 200 6898537 1 1507265057
+/
+45.35.167.115
+0 1 1 4780 0 0
+-
+207.46.13.205
+0 1 0 0 0 0
+-
+149.156.73.193
+0 1 0 0 0 0
+-
+34.253.230.255
+0 1 1 945 1 1507250438
+/
+86.26.141.76
+0 61 61 1933748 2 1507518728
+/
+199.30.24.171
+0 1 1 51276 0 0
+-
+45.35.167.99
+0 1 1 3068 0 0
+-
+40.77.177.114
+0 27 27 1612034 0 0
+-
+146.176.150.31
+0 58 58 1930798 1 1507264799
+/
+199.30.24.91
+0 2 2 324898 0 0
+-
+52.33.227.202
+0 1 1 3547 1 1507297565
+/
+45.35.109.235
+0 1 1 9546 0 0
+-
+54.154.240.207
+0 29 29 964738 1 1507308513
+/
+199.30.24.193
+0 3 3 91789 0 0
+-
+199.30.25.63
+0 1 1 35957 0 0
+-
+207.46.13.124
+0 1 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+207.46.13.80
+0 1 0 0 0 0
+-
+40.77.167.98
+0 1 1 3547 1 1507519571
+/
+86.26.141.76
+0 30 30 966763 1 1507518728
+/
+40.77.177.114
+0 27 27 1612034 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://napiermanagementtraining.co.uk/css/font-awesome.css
+0 4
+http://www.napiermanagementtraining.co.uk/
+0 60
+http://napiermanagementtraining.co.uk
+0 1
+http://www.napiermanagementtraining.co.uk/index.html
+0 27
+http://www.napiermanagementtraining.co.uk/css/font-awesome.css
+0 6
+http://www.napiermanagementtraining.co.uk/index-4.html
+0 27
+- (Direct Request)
+0 88
+http://m.facebook.com/
+0 1
+http://www.napiermanagementtraining.co.uk/index-3.html
+0 25
+http://www.napiermanagementtraining.co.uk/index-2.html
+0 21
+http://napiermanagementtraining.co.uk/
+0 166
+http://www.napiermanagementtraining.co.uk/index-1.html
+0 26
+http://www.napiermanagementtraining.co.uk/css/material-icons.css
+0 6
+http://napiermanagementtraining.co.uk/css/material-icons.css
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/602.1 (KHTML, like Gecko) splash Version/9.0 Safari/602.1
+0 60
+Mozilla/5.0 (Linux; Android 7.0; XT1580 Build/NPKS25.200-12-4; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 3
+DomainCrawler/3.0 (info@domaincrawler.com; http://www.domaincrawler.com/napiermanagementtraining.co.uk)
+0 10
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12 Version/12.16
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 33
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 170
+Mozilla/5.0 (Linux; Android 7.0; XT1580 Build/NPKS25.200-12-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.98 Mob
+0 58
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13 GTB7.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36 OPR/48.0.2685.
+0 61
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 2
+Ruby
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 51
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

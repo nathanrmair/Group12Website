@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<title>Course Search</title>
+	<meta charset=utf-8>
+
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+	<script type='text/javascript' src='autocomplete.js'></script>
+	<script type='text/javascript' src='loadHeader.js'></script>
+	<link rel='stylesheet' href='//code.jquery.com/ui/1.11.4/themes/ui-lightness/jquery-ui.css'/>
+	<link rel='stylesheet' href='courses.css'/>
+</head>
+<body>
+	<div id='header'>
+	</div>
+	<div id='title'>
+		<h1>Courses at Edinburgh Napier</h1>
+	</div>
+	<div id='searchContainer'>
+		<form method="GET" action="results.php">
+			<input id='searchInput' name="search">
+			<input id='searchSubmit' type="submit" value="Search">
+			<p id='searchHelp'>Find the course that's right for you at Edinburgh Napier University. If you need some help choosing, take a look at our <a href="http://www.napier.ac.uk/courses/browse-interests">interest groups</a> to see what we offer. Or, find out about becoming a <a href="http://www.napier.ac.uk/research-and-innovation/postgraduate-research">postgraduate researcher</a>.</p>
+		</form>
+	</div>
+</body>
+</html>
