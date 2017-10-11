@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Course Search</title>
+	<title>Napier Management Training</title>
 	<meta charset=utf-8>
 
 	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
@@ -14,15 +14,22 @@
 <body>
 	<div id='header'>
 	</div>
-	<div id='title'>
-		<h1>Courses at Edinburgh Napier</h1>
+	<div id='backgroundImage'>
+		<img id='stockImage' src="stockPhoto.jpg" alt="Stock image of upmarket business district on the Clyde">
+		<div id='searchContainer'>
+			<p id='searchTitle'>Search for Courses:</p>
+			<form method="GET" action="results.php">
+				<input id='searchInput' name="search">
+				<input id='searchSubmit' type="submit" value="Search">
+			</form>
+		</div>
 	</div>
-	<div id='searchContainer'>
-		<form method="GET" action="results.php">
-			<input id='searchInput' name="search">
-			<input id='searchSubmit' type="submit" value="Search">
-			<p id='searchHelp'>Find the course that's right for you at Edinburgh Napier University. If you need some help choosing, take a look at our <a href="http://www.napier.ac.uk/courses/browse-interests">interest groups</a> to see what we offer. Or, find out about becoming a <a href="http://www.napier.ac.uk/research-and-innovation/postgraduate-research">postgraduate researcher</a>.</p>
-		</form>
+	<p>This is a brief description of the company</p>
+	<div id='upcomingCoursesContainer'>
+		<div id='upcomingCoursesTitle'>
+			<p>Upcoming Courses</p>
+		</div>
+		<p class='forNathan'>Some details go here</p>
 	</div>
 </body>
 </html>

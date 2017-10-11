@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Course Search</title>
+	<title>Napier Management Training</title>
 	<meta charset=utf-8>
 	<script src="//code.jquery.com/jquery-1.10.2.js"></script>
 	<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
@@ -9,20 +9,24 @@
 </head>
 <body>
 	<div id='headerContainer'>
-		<div id='headerTopRow'>
-			<img src="EdNapUni_red.png" alt="Napier Logo">
-			<a href="index.html" class='button'>Courses</a>
-			<a href="http://www.napier.ac.uk/study-with-us" class='button'>Study with us</a>
-			<a href="http://www.napier.ac.uk/global" class='button'>Global</a>
-			<a href="http://www.napier.ac.uk/research-and-innovation" class='button'>Research and innovation</a>
-			<a href="http://www.napier.ac.uk/alumni" class='button'>Alumni</a>
-			<a href="http://www.napier.ac.uk/about-us" class='button'>About us</a>
-		</div>	
-		<form method="GET" action="results.php">
-			<p id='searchHeader'>Search for Courses at Napier:</p>
-			<input id='searchInputHeader' name="search">
-			<input id='searchSubmitHeader' type="submit" value="Search">
-		</form>
+		<img src="nmtLogoSmall.png" alt="Napier Management Training Logo">
+		<div id='topBar'>
+			<div id='headerTriangle'>
+			</div>
+			<div id='headerButtonRow'>
+				<a href="courses.html" class='topButton'>Courses</a>
+				<a href="venues.html" class='topButton'>Venues</a>
+				<a href="about.html" class='topButton'>About</a>
+				<a href="contact.html" class='topButton'>Contact</a>
+				<a href="admin.html" class='topButton'>Admin Tools</a>
+				<form method="GET" action="results.php">
+					<p id='searchHeader'>Search Courses:</p>
+					<input id='searchInputHeader' name="search">
+					<input id='searchSubmitHeader' type="submit" value="Search">
+				</form>
+			</div>	
+		</div>
 	</div>
+	<p id='warning'>This web site is for demonstration purposes only and is part of an academic coursework for Managing Software Projects at the School of Computing Edinburgh Napier University</p>
 </body>
 </html>

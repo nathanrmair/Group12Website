@@ -1,20 +1,64 @@
 <?php
-$m = new mysqli('localhost','scott','tiger','courses');
-if ($m->connect_errno){
-	die("Database connection failed");
+function db_connect() {
+	
+	static $connection;
+	
+	if(!isset($connection)) {
+		$config = parse_ini_file('db/config.ini');
+		$connection = mysqli_connect('localhost',$config['username'],$config['password'],$config['dbname']);
+	}
+
+	if($connection === false) {
+		return mysqli_connect_error();
+	}
+	
+	return $connection;
 }
-$keyword = $_REQUEST['term'];
-$m->set_charset("utf8");
-$sql = "
-SELECT DISTINCT title
-  FROM course
- WHERE course.title LIKE '%$keyword%' 
-";
-$result = $m->query($sql) or die($m->error);
-while($row = $result->fetch_assoc())
+function db_query($query)
 {
-	$data[] = $row['title'];
+	$connection = db_connect();
+	
+	$result = mysqli_query($connection,$query);
+	
+	return $result;
+
 }
 
-echo json_encode($data);
+function db_error() {
+    $connection = db_connect();
+    return mysqli_error($connection);
+}
+
+function db_select($query) {
+	
+	$rows = array();
+	$result = db_query($query);
+	if($result === false) {
+		return false
+	} else {
+		while($row = mysqli_fetch_assoc($result))
+		{
+			$rows[] = $row['name'];
+		}
+	}
+	
+	return $rows;
+}
+
+$rows = db_select("SELECT DISTINCT name FROM course WHERE course.name LIKE '%$keyword%'");
+if($rows === false) {
+	$error = db_error();
+}
+	echo json_encode($rows);
 ?>
+
+
+
+
+
+
+
+
+
+
+
