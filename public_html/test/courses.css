@@ -1,8 +1,3 @@
-body{
-	font-family: Arial !important;
-	margin: 0px;
-}
-
 #backgroundImage{
 	background-color:#102840;
 	width:100%;
@@ -15,36 +10,16 @@ body{
 	transform: translateY(50px);
 }
 
-#searchBackground{
-	margin:auto;
+#searchContainer{
+	margin: auto;
+	max-width: 600px;
+	font-size: 1.1em;
+	background-color: #102840;
+	padding: 10px;
+	color: white;
+	z-index: 1000;
 	position: relative;
 	transform: translateY(-100px);
-	width: 600px;
-}
-
-#searchContainer{
-	width: 524px;
-	font-size: 1.1em;
-	padding: 10px;
-	background-color: #102840;
-	color: white;
-	display: inline-block;
-}
-
-#leftSearchTriangle{
-	height: 0;
-	width: 0;
-	border-bottom: 63px solid #102840;
-	border-left: 28px solid transparent;
-	float: left;
-}
-
-#rightSearchTriangle{
-	height: 0;
-	width: 0;
-	border-top: 63px solid #102840;
-	border-right: 28px solid transparent;
-	float: right;
 }
 
 #searchTitle{
@@ -61,18 +36,7 @@ body{
 }
 
 #searchHeader{
-	margin-top:10px;
-	display: inline-block;
-	color: white;
-}
-
-#searchInputHeader{
-	display: inline-block;
-	width: 250px;
-}
- 
-#searchSubmitHeader{
-	display: inline-block;
+	margin:0px;
 }
 
 #upcomingCoursesTitle{
@@ -80,6 +44,7 @@ body{
 	color: white;
 	width: 300px;
 	padding: 10px;
+	margin: auto;
 	font-size: 1.1em;
 	text-align:center
 }
@@ -88,81 +53,36 @@ body{
 	margin:0px;
 }
 
-.headerBanner{
-	margin: auto;
-	height: 41px;
-}
-
-.leftHeaderTriangle{
-	height: 0;
-	width: 0;
-	border-bottom: 41px solid #102840;
-	border-left: 14px solid transparent;
-	float: left;
-}
-
-.rightHeaderTriangle{
-	height: 0;
-	width: 0;
-	border-top: 41px solid #102840;
-	border-right: 14px solid transparent;
-	float: right;
-}
-
-#warning{
-	width: 80%;
-	background-color: red;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	margin-left: 10%;
-}
-
-#headerContainer{
-	width: 90%;
-	margin: auto;
-	margin-top: 12px;
-	margin-bottom: 5px;
-	margin-left: 10%;
-}
-
-.searchButton{
-	background-color: #102840;
-	color: white;
-	font-weight: bold;
-}
-
 .forNathan {
 	background-color: green;
 }
 
-.topButton{
-	display: inline-block;
-	text-decoration: none;
-	background-color: #102840;
-	color: #ffffff;
-	padding: 10px 20px 10px 20px;
-	position: relative;
-}
- 
-#topBar{
-        height:80px;
-        width: calc(100% - 400px);
-        float:right;
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+	font-family: Arial !important;
+	margin: 0px;
 }
 
-#headerTriangle{
-	height: 0;
-	width: 0;
-	border-bottom: 80px solid #102840;
-	border-left: 40px solid transparent;
-	float:left;
+#headerContainer{
+	width: 800px;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
- 
-#headerButtonRow {
-	background-color: #102840;
-	height: 80px;
-	margin-left:40px;
-}
+
+
 
 .button{
 	display: inline-block;

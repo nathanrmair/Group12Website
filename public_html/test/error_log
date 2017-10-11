@@ -1,0 +1,145 @@
+[09-Oct-2017 12:42:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:06 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:07 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[09-Oct-2017 12:42:44 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/autocomplete.php on line 2
+[10-Oct-2017 11:39:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/results.php on line 38
+[11-Oct-2017 06:50:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '160.153.16.34:3306' (2) in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:50:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:50:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 06:50:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host '160.153.16.34:3306' (0) in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:50:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:50:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 06:50:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/test/results.php on line 38
+[11-Oct-2017 06:51:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:51:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:51:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 06:51:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (0) in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:51:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:51:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 06:53:28 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'group12'@'localhost' to database 'group12_db' in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:53:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:53:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 06:53:29 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'group12'@'localhost' to database 'group12_db' in /home/n40170722/public_html/test/autocomplete.php on line 8
+[11-Oct-2017 06:53:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/n40170722/public_html/test/autocomplete.php on line 21
+[11-Oct-2017 06:53:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/n40170722/public_html/test/autocomplete.php on line 39
+[11-Oct-2017 07:00:42 UTC] PHP Notice:  Undefined index: name in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:27 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:27 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:27 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:29 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:30 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:30 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:30 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:31 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:31 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:50:31 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:37 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:37 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:37 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:38 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:38 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:38 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:39 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:39 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:51:39 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:00 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:13 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:13 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:52:13 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:53:57 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:53:57 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:53:57 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:55:26 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:55:53 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 09:55:59 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 10:01:22 UTC] PHP Notice:  Undefined index: course in /home/n40170722/public_html/test/autocomplete.php on line 41
+[11-Oct-2017 10:29:38 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/test/results.php on line 38
+[11-Oct-2017 11:36:04 UTC] PHP Notice:  Undefined variable: rows in /home/n40170722/public_html/test/results.php on line 94
+[11-Oct-2017 11:36:04 UTC] PHP Notice:  Trying to get property of non-object in /home/n40170722/public_html/test/results.php on line 104
+[11-Oct-2017 11:36:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/n40170722/public_html/test/results.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/n40170722/public_html/test/results.php on line 177
+[11-Oct-2017 11:36:55 UTC] PHP Notice:  Undefined variable: rows in /home/n40170722/public_html/test/results.php on line 94
+[11-Oct-2017 11:36:55 UTC] PHP Notice:  Trying to get property of non-object in /home/n40170722/public_html/test/results.php on line 104
+[11-Oct-2017 11:36:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/n40170722/public_html/test/results.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/n40170722/public_html/test/results.php on line 177
+[11-Oct-2017 11:38:00 UTC] PHP Notice:  Trying to get property of non-object in /home/n40170722/public_html/test/results.php on line 104
+[11-Oct-2017 11:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home/n40170722/public_html/test/results.php:177
+Stack trace:
+#0 {main}
+  thrown in /home/n40170722/public_html/test/results.php on line 177
+[11-Oct-2017 11:42:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, array given in /home/n40170722/public_html/test/results.php on line 177
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:46:59 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'scott'@'localhost' (using password: YES) in /home/n40170722/public_html/test/course.php on line 19
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:47:52 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 181
+[11-Oct-2017 11:48:15 UTC] PHP Notice:  Undefined index: href in /home/n40170722/public_html/test/results.php on line 182
