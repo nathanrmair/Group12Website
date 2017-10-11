@@ -5,7 +5,7 @@ function db_connect() {
 	
 	if(!isset($connection)) {
 		$config = parse_ini_file('db/config.ini');
-		$connection = mysqli_connect('160.153.16.34:3306',$config['username'],$config['password'],$config['dbname']);
+		$connection = mysqli_connect('localhost',$config['username'],$config['password'],$config['dbname']);
 	}
 
 	if($connection === false) {
