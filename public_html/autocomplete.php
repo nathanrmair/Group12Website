@@ -5,7 +5,7 @@ function db_connect() {
 	
 	if(!isset($connection)) {
 		$config = parse_ini_file('db/config.ini');
-		$connection = mysqli_connect('localhost',$config['username'],$config['password'],$config['dbname']);
+		$connection = mysqli_connect('160.153.16.34:3306',$config['username'],$config['password'],$config['dbname']);
 	}
 
 	if($connection === false) {
@@ -34,7 +34,7 @@ function db_select($query) {
 	$rows = array();
 	$result = db_query($query);
 	if($result === false) {
-		return false
+		return false;
 	} else {
 		while($row = mysqli_fetch_assoc($result))
 		{
@@ -44,10 +44,11 @@ function db_select($query) {
 	
 	return $rows;
 }
-
+$keyword = $_REQUEST['term'];
 $rows = db_select("SELECT DISTINCT name FROM course WHERE course.name LIKE '%$keyword%'");
 if($rows === false) {
 	$error = db_error();
+	exit("database connection failed");
 }
 	echo json_encode($rows);
 ?>
